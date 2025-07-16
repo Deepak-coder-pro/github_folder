@@ -1,1 +1,2 @@
-Hi Git Branch 1 and changes are done
+Hi Git Branch 1 and changes are done 
+now we are good
